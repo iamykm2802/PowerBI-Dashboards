@@ -51,7 +51,7 @@ Designed an interactive Retail Sales dashboard to monitor sales performance, pro
 
 ### Dashboard Preview
 
-![Retail Dashboard](Retail-Sales-Dashboard.png)
+![Retail Dashboard](Retail%20Dashboard.png)
 
 ---
 
